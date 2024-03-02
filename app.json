@@ -1,14 +1,14 @@
 {
-  "name": "MALIK-MD",
+  "name": "KING M-CROSS",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Malik", "Secktor","MALIK-MD","theme bot","multi device","baileys","bot"],
+  "logo": "https://telegra.ph/file/c5e705d258f2c4c21943d.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Malik", "Secktor","MCROSS-MD","theme bot","multi device","baileys","bot"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Ata Ur Rehman"
+      "value": "༆𝙆𝙄𝙉𝙂✜𝙈-𝘾𝙍𝙊𝙎𝙎༆"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -23,7 +23,7 @@
        "required" :false
       },
     "HEROKU_API_KEY": {
-    "description": "Put HEROKU API KEY",
+    "description": "Put HEROKU API KEY(f70feb67-eceb-4ea4-8f9a-ee1fe0cfec69)",
      "required"  :true
     },
  "HEROKU_APP_NAME": {
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
+     "value": "https://telegra.ph/file/c5e705d258f2c4c21943d.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -51,16 +51,16 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
     "SUDO": {
-    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:2347039570336",
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:2349042566473",
      "required"  :false
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
    "DISABLE_PM": {
     "description": "Disable bot in pm",
@@ -68,11 +68,11 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": "⚡"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923xxxxxxxx"
+       "value": "2349042566473"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
@@ -88,7 +88,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "MALIK"
+     "value": "MCROSS-MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "mybot;malik-md",
+     "value": "kingmcross;mcross-md",
      "required": false 
   },
   "heroku": {
