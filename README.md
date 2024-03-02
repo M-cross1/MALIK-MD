@@ -1,9 +1,9 @@
 </p>
 <p align="center">
   <a href="[https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL](https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG)">
-    <img alt=Support height="400" src="https://telegra.ph/file/dce77f7538019d05afe65.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/c5e705d258f2c4c21943d.jpg"> 
     </p>
-<p align  = center> <a href="#"><img title="MALIK-MD MULTI DEVICE" src="https://img.shields.io/badge/MALIK-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="MCROSS-MD MULTI DEVICE" src="https://img.shields.io/badge/MALIK-MD WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+MALIK+MD+WA+BOT.;CREATED+BY+ATA+UR+REHMAN+AND+TEAM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
@@ -189,7 +189,7 @@
  <p align="left">
   <a href="akk728492@gmail.com">
     <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923124533358?text=Hi%20Ata-Ur-Rehman%20Sir...%20I%20need%20some%20help%20in%20Malik-MD">
+   <a href="https://wa.me/2349042566473?text=Hi%20Ata-Ur-Rehman%20Sir...%20I%20need%20some%20help%20in%20Malik-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
 
 
