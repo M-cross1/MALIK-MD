@@ -3,27 +3,27 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split(",")
+global.owner = process.env.OWNER_NUMBER.split("2349042566473")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://malikmd:malikmd@cluster0.bfc7ce9.mongodb.net/"
 global.port= process.env.PORT || 5000
-global.email = 'akk728492@gmail.com'
-global.github = 'https://github.com/arkhan998/MALIK-MD'
-global.location = 'Pakistan'
-global.gurl = 'king-md.db' // add your username
-global.sudo = process.env.SUDO || '923124533358'
-global.devs = '923124533358';
-global.website = 'https://github.com/arkhan998/MALIK-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/dce77f7538019d05afe65.jpg'
+global.email = 'kingmcross090@gmail.com'
+global.github = 'https://wa.me/2349042566473'
+global.location = 'Nigeria'
+global.gurl = 'https://wa.me/2349042566473' // add your username
+global.sudo = process.env.SUDO || '2349042566473'
+global.devs = '2349042566473';
+global.website = 'https://wa.me/2349042566473' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/c5e705d258f2c4c21943d.jpg'
 module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "session",
-  botname:   process.env.BOT_NAME === undefined ? 'MALIK-BOT' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'arkhan' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? '𝙈𝘾𝙍𝙊𝙎𝙎-𝘽𝙊𝙏' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '༆𝙆𝙄𝙉𝙂✙𝙈-𝘾𝙍𝙊𝙎𝙎༆' : process.env.OWNER_NAME,
   author:  process.env.PACK_INFO === undefined ? 'bot' : process.env.PACK_INFO.split(";")[0],
-  auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_INFO === undefined ? 'malik-Md' : process.env.PACK_INFO.split(";")[1],
+  auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? true : process.env.AUTO_READ_STATUS,
+  packname:  process.env.PACK_INFO === undefined ? '𝙈𝘾𝙍𝙊𝙎𝙎-𝙈𝘿' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
-  antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nigga' : process.env.ANTI_BAD_WORD,
+  antibadword :  process.env.ANTI_BAD_WORD === undefined ? '' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
   typingprensence:  process.env.TYPING === undefined ? false : process.env.TYPING,
 recordingpresence:  process.env.RECORDING === undefined ? false : process.env.RECORDING,	
@@ -44,11 +44,11 @@ recordingpresence:  process.env.RECORDING === undefined ? false : process.env.RE
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
     HEROKU: process.env.HEROKU ||false,
-    API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
+    API_KEY: process.env.HEROKU_API_KEY === undefined ? 'f70feb67-eceb-4ea4-8f9a-ee1fe0cfec69' : process.env.HEROKU_API_KEY,
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'MALIK',
+  LANG: process.env.THEME|| '𝙈𝘾𝙍𝙊𝙎𝙎',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
